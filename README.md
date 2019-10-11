@@ -17,6 +17,7 @@
 ### Change environment
 
 `conda activate my_name`
+
 `conda deactivate`
 
 ### Required packages
